@@ -2,11 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: A list of all courses I’ve taught or TA’d — in the past, currently, or planned for the future — with details and links where applicable.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Cornell University
 
-Organize your courses by years, topics, or universities, however you like!
+### Fall 2025
+- **CS 2112: Object-Oriented Design and Data Structures (Honors)** - Consultant
