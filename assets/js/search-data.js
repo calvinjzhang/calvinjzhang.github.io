@@ -44,12 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/art/";
           },
-        },{id: "art-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Art",handler: () => {
-              window.location.href = "/art/1_project/";
-            },},{id: "news-website-launch",
+        },{id: "news-website-launch",
           title: 'Website launch!',
           description: "",
           section: "News",},{
