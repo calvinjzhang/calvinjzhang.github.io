@@ -9,5 +9,4 @@ nav_order: 5
 
 ## Cornell University
 
-### Fall 2025
-- **CS 2112: Object-Oriented Design and Data Structures (Honors)** - Consultant
+- Fall 2025 **CS 2112: Object-Oriented Design and Data Structures (Honors)** - Consultant

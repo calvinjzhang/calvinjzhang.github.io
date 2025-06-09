@@ -2,7 +2,7 @@
 layout: page
 title: art
 permalink: /art/
-description: A growing collection of your cool projects.
+description: This page is still under construction — check back soon for updates!
 nav: true
 nav_order: 6
 display_categories: [work, fun]
@@ -17,7 +17,7 @@ horizontal: false
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
+  {% assign categorized_projects = site.art | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
@@ -41,7 +41,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+{% assign sorted_projects = site.art | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
