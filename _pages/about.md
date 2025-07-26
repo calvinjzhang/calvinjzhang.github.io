@@ -21,6 +21,4 @@ announcements:
 
 ---
 
-Hi, if you're reading this, this website is under construction. Thanks!
-
 Hi, I’m Calvin Zhang! I’m a software engineer and researcher studying math and computer science at [Cornell University](https://www.cornell.edu/). I’m especially interested in machine learning, systems, and how algorithms work under the hood. Right now, I’m doing ML research and always looking to learn more by building, experimenting, and exploring new ideas.
