@@ -23,26 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "A list of all courses I’ve taught or TA’d — in the past, currently, or planned for the future — with details and links where applicable.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
-          },
-        },{id: "nav-art",
-          title: "art",
-          description: "This page is still under construction — check back soon for updates!",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/art/";
           },
         },{id: "news-website-launch",
           title: 'Website launch!',
