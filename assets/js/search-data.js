@@ -9,28 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "publications",
-          description: "This page is still under construction — check back soon for updates!",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "This page is still under construction — check back soon for updates!",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "A list of all courses I’ve taught or TA’d — in the past, currently, or planned for the future — with details and links where applicable.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
-        },{id: "news-website-launch",
+  },{id: "news-website-launch",
           title: 'Website launch!',
           description: "",
           section: "News",},{
