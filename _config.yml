@@ -193,6 +193,10 @@ exclude:
   - _pages/books.md
   - _pages/art.md
   - _pages/cv.md
+  - _pages/publications.md
+  - _pages/teaching.md
+  - _pages/projects.md
+  - _pages/news.md
   - _posts
   - _books
   - _news/announcement_2.md
